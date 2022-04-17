@@ -18,6 +18,8 @@ Also, I'm currently working on several projects that are currently private (i'll
 
 Yeah, that's a very huge amount of work, but i'm in no hurry. **I ❤️ to 🛠️!**
 
+I'm maintaner of ClansBot, too. Support server -> [link](https://discord.gg/Fhn7rCVmCp)
+
 ### Tools
 
 Here is a various tools i'm using (used | will use) and love:
