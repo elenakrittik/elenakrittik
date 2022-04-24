@@ -4,7 +4,7 @@ Hi, i'm very weird man that thinks he is a programmer.
 
 ### Projects
 
-- [node-require](https://github.com/weerdy15/node-require) - Implementation of NodeJS'S `require()`, but with more functionality. (The only somewhat good project from me)
+- [node-require](https://github.com/weerdy15/node-require) - Implementation of NodeJS's `require()`, but with more functionality. (The only somewhat good project from me)
 - [weird_json](https://github.com/weerdy15/weird_json) - Very bad implementation of JSON.
 
 Also, I'm currently working on several projects that are currently private (i'll open them when they enter their first stable release):
