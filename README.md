@@ -10,11 +10,12 @@ Hi, i'm very weird man that thinks he is a programmer.
 Also, I'm currently working on several projects that are currently private (i'll open them when they enter their first stable release):
 
 - `discord-api-server` - OS implementation of Discord's API
-- `augmonto` - Yet another Discord API wrapper
+- `Rimma` - Yet another Discord API wrapper & bot framework
 - `md4web` - Markdown -> HTML converter
 - `rubraries` - Rust client for libraries.io API
 - `fly` - My own document database
 - `plugin-autohelp` - A plugin for [Sapphire.js](https://github.com/sapphiredev/framework) Discord bot command framework
+- `lybraries` - Python client for [libraries.io API](https//libraries.io/api)
 
 Yeah, that's a very huge amount of work, but i'm in no hurry. **I ❤️ to 🛠️!**
 
