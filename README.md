@@ -46,3 +46,5 @@ Here is my GitHub statistics:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weerdy15&show_icons=true&theme=codeSTACKr&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weerdy15&layout=compact&theme=codeSTACKr)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weerdy15&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
