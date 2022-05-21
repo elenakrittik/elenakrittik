@@ -6,6 +6,7 @@ Hi, i'm very weird man that thinks he is a programmer.
 
 - [node-require](https://github.com/weerdy15/node-require) - Implementation of NodeJS's `require()`, but with more functionality. (The only somewhat good project from me)
 - [weird_json](https://github.com/weerdy15/weird_json) - Very bad implementation of JSON.
+- [flappy-bird](https://github.com/weerdy15/flappy-bird) - The Flappy Bird game implemented using GML Code
 
 Also, I'm currently working on several projects that are currently private (i'll open them when they enter their first stable release):
 
@@ -33,10 +34,8 @@ Here is a various tools i'm using (used / will use) and love:
 [![Rust](https://shields.io/badge/Rust-1.60.0-black?style=for-the-badge&logo=rust&labelColor=84151c)](https://rust-lang.org/)
 [![FastAPI](https://shields.io/badge/FastAPI-0.75.1-black?style=for-the-badge&logo=fastapi&labelColor=black&color=009688)](https://github.com/tiangolo/fastapi/)
 [![Discord](https://shields.io/badge/Discord-nakamita%239597-black?style=for-the-badge&logo=discord&labelColor=black&color=5865F2)](https://discord.com/)
-[![NPM](https://shields.io/badge/NPM-8.6.0-black?style=for-the-badge&logo=npm&labelColor=black&color=CB3837)](https://npmjs.org/)
 [![PyPI](https://shields.io/badge/PyPI-weerdy15-black?style=for-the-badge&logo=pypi&labelColor=black&color=3775A9)](https://pypi.org/)
 [![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-1.66-black?style=for-the-badge&logo=visualstudiocode&labelColor=black&color=007ACC&logoColor=007ACC)](https://code.visualstudio.com/)
-[![.NET](https://shields.io/badge/.NET-6.0.3-black?style=for-the-badge&logo=dotnet&labelColor=black&color=512BD4)](https://dotnet.microsoft.com/)
 [![Sublime Text](https://shields.io/badge/Sublime%20Text-4B4126-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=FF9800)](https://sublimetext.com/)
 
 ### Stats
