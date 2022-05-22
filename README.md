@@ -26,12 +26,12 @@ I'm maintaner of ClansBot, too. Support server -> [link](https://discord.gg/Fhn7
 
 Here is a various tools i'm using (used / will use) and love:
 
-[![Python](https://shields.io/badge/Python-3.10-%231793D1?style=for-the-badge&logo=python&logoColor=blue)](https://python.org/)
-[![Node.js](https://shields.io/badge/Node.js-17.9.0-%231793D1?style=for-the-badge&logo=node.js&color=%23339933)](https://nodejs.org/)
-[![TypeScript](https://shields.io/badge/TypeScript-4.6-%231793D1?style=for-the-badge&logo=typescript&color=%233178C6)](https://typescriptlang.org/)
-[![Markdown](https://shields.io/badge/Markdown-GitHub%0Aflavoured-%231793D1?style=for-the-badge&logo=markdown&color=black)](https://daringfireball.net/projects/markdown/)
+[![Python](https://shields.io/badge/Python-3.10-%231793D1?style=for-the-badge&logo=python&logoColor=blue&labelColor=black)](https://python.org/)
+[![Node.js](https://shields.io/badge/Node.js-17.9.0-%231793D1?style=for-the-badge&logo=node.js&color=%23339933&labelColor=black)](https://nodejs.org/)
+[![TypeScript](https://shields.io/badge/TypeScript-4.6-%231793D1?style=for-the-badge&logo=typescript&color=%233178C6&labelColor=black)](https://typescriptlang.org/)
+[![Markdown](https://shields.io/badge/Markdown-GitHub%0Aflavoured-%231793D1?style=for-the-badge&logo=markdown&color=lightgrey&labelColor=black)](https://daringfireball.net/projects/markdown/)
 [![JavaScript](https://shields.io/badge/JavaScript-ES%0A2018-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)](https://javascript.com/)
-[![Rust](https://shields.io/badge/Rust-1.60.0-black?style=for-the-badge&logo=rust&labelColor=84151c)](https://rust-lang.org/)
+[![Rust](https://shields.io/badge/Rust-1.60.0-black?style=for-the-badge&logo=rust&color=84151c&labelColor=black&logoColor=84151c)](https://rust-lang.org/)
 [![FastAPI](https://shields.io/badge/FastAPI-0.75.1-black?style=for-the-badge&logo=fastapi&labelColor=black&color=009688)](https://github.com/tiangolo/fastapi/)
 [![Discord](https://shields.io/badge/Discord-nakamita%239597-black?style=for-the-badge&logo=discord&labelColor=black&color=5865F2)](https://discord.com/)
 [![PyPI](https://shields.io/badge/PyPI-weerdy15-black?style=for-the-badge&logo=pypi&labelColor=black&color=3775A9)](https://pypi.org/)
