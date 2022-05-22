@@ -42,8 +42,10 @@ Here is a various tools i'm using (used / will use) and love:
 
 Here is my GitHub statistics:
 
-![GitHub Stats](https://github-readme-stats-ten-murex-14.vercel.app/api?username=weerdy15&show_icons=true&theme=vue&count_private=true)
+![GitHub Stats](https://github-readme-stats-weerdy15.vercel.app/api?username=weerdy15&show_icons=true&theme=vue&count_private=true)
 
-![Top Languages](https://github-readme-stats-ten-murex-14.vercel.app/api/top-langs/?username=weerdy15&layout=compact&theme=vue)
+![Top Languages](https://github-readme-stats-weerdy15.vercel.app/api/top-langs/?username=weerdy15&layout=compact&theme=vue)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weerdy15&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+> Provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
