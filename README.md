@@ -4,7 +4,7 @@ Hi, i'm very weird man that thinks he is a programmer.
 
 ### Projects
 
-- [node-require](https://github.com/weerdy15/node-require) - Implementation of NodeJS's `require()`, but with more functionality. (The only somewhat good project from me)
+- [node-require](https://github.com/weerdy15/node-require) - Implementation of NodeJS's `require()`, but with more functionality. Really nice thing
 - [weird_json](https://github.com/weerdy15/weird_json) - Very bad implementation of JSON.
 - [flappy-bird](https://github.com/weerdy15/flappy-bird) - The Flappy Bird game implemented using GML Code
 
