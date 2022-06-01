@@ -4,9 +4,9 @@ Hi, i'm very weird man that thinks he is a programmer.
 
 ### Projects
 
-- [node-require](https://github.com/weerdy15/node-require) - Implementation of NodeJS's `require()`, but with more functionality. Really nice thing
-- [weird_json](https://github.com/weerdy15/weird_json) - Very bad implementation of JSON.
-- [flappy-bird](https://github.com/weerdy15/flappy-bird) - The Flappy Bird game implemented using GML Code
+- [node-require](https://github.com/ItsAleph/node-require) - Implementation of NodeJS's `require()`, but with more functionality. Really nice thing
+- [weird_json](https://github.com/ItsAleph/weird_json) - Very bad implementation of JSON.
+- [flappy-bird](https://github.com/ItsAleph/flappy-bird) - The Flappy Bird game implemented using GML Code
 
 Also, I'm currently working on several projects that are currently private (i'll open them when they enter their first stable release):
 
@@ -42,10 +42,10 @@ Here is a various tools i'm using (used / will use) and love:
 
 Here is my GitHub statistics:
 
-![GitHub Stats](https://github-readme-stats-weerdy15.vercel.app/api?username=weerdy15&show_icons=true&theme=vue&count_private=true)
+![GitHub Stats](https://github-readme-stats-weerdy15.vercel.app/api?username=ItsAleph&show_icons=true&theme=vue&count_private=true)
 
-![Top Languages](https://github-readme-stats-weerdy15.vercel.app/api/top-langs/?username=weerdy15&layout=compact&theme=vue)
+![Top Languages](https://github-readme-stats-weerdy15.vercel.app/api/top-langs/?username=ItsAleph&layout=compact&theme=vue)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weerdy15&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAleph&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 > Provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
