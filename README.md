@@ -16,6 +16,8 @@ Also, I'm currently working on several projects that are currently private (i'll
 - `rubraries` - Rust client for libraries.io API
 - `plugin-autohelp` - A plugin for [Sapphire.js](https://github.com/sapphiredev/framework) Discord bot command framework
 - `lybraries` - Python client for [libraries.io API](https//libraries.io/api)
+- `flux-edge` - 2D multi-/single-player action-platformer
+- `Rutena` - Another Discord clone..
 
 Yeah, that's a very huge amount of work, but i'm in no hurry. **I ❤️ to 🛠️!**
 
