@@ -32,11 +32,10 @@ Here is a various tools i'm using and love:
 [![Markdown](https://shields.io/badge/Markdown-GitHub%0Aflavoured-%231793D1?style=for-the-badge&logo=markdown&color=lightgrey&labelColor=black)](https://daringfireball.net/projects/markdown/)
 [![JavaScript](https://shields.io/badge/JavaScript-ES%0A2018-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)](https://javascript.com/)
 [![Rust](https://shields.io/badge/Rust-Latest-black?style=for-the-badge&logo=rust&color=84151c&labelColor=black&logoColor=84151c)](https://rust-lang.org/)
-[![FastAPI](https://shields.io/badge/FastAPI-0.75.1-black?style=for-the-badge&logo=fastapi&labelColor=black&color=009688)](https://github.com/tiangolo/fastapi/)
 [![Discord](https://shields.io/badge/Discord-pew%236282-black?style=for-the-badge&logo=discord&labelColor=black&color=5865F2)](https://discord.com/)
 [![PyPI](https://shields.io/badge/PyPI-weerdy15-black?style=for-the-badge&logo=pypi&labelColor=black&color=3775A9)](https://pypi.org/)
-[![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-1.66-black?style=for-the-badge&logo=visualstudiocode&labelColor=black&color=007ACC&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Sublime Text](https://shields.io/badge/Sublime%20Text-4B4126-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=FF9800)](https://sublimetext.com/)
+[![Visual Studio Code](https://shields.io/badge/Visual%20Studio%20Code-Latest-black?style=for-the-badge&logo=visualstudiocode&labelColor=black&color=007ACC&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Sublime Text](https://shields.io/badge/Sublime%20Text-4%20Latest-black?style=for-the-badge&logo=sublimetext&labelColor=black&color=FF9800)](https://sublimetext.com/)
 
 ### Stats
 
