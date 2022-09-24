@@ -42,6 +42,8 @@ Here is a various tools i'm using and love:
 
 Here is my GitHub statistics:
 
+![Profile Views](https://komarev.com/ghpvc/?username=ItsAleph&color=fb9bff&style=for-the-badge)
+
 ![GitHub Stats](https://github-readme-stats-weerdy15.vercel.app/api?username=ItsAleph&show_icons=true&theme=vue&count_private=true)
 
 ![Top Languages](https://github-readme-stats-weerdy15.vercel.app/api/top-langs/?username=ItsAleph&layout=compact&theme=vue)
