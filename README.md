@@ -33,6 +33,6 @@ Here is my GitHub statistics:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ItsAleph&color=fb9bff&style=for-the-badge)
 
-![/github-metrics.svg]
+![Metrics](/github-metrics.svg)
 
 > Provided by [metrics](https://github.com/lowlighter/metrics)
