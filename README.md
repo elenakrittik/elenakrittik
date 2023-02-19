@@ -5,20 +5,12 @@ Kinda like a programmer, *gemdev* and OSS enthusiast.
 ### Projects
 
 - [node-require](https://github.com/ItsAleph/node-require) - Implementation of NodeJS's `require()`, but with more functionality. Really nice thing
-- [weird_json](https://github.com/ItsAleph/weird_json) - Very bad implementation of JSON.
-- [flappy-bird](https://github.com/ItsAleph/flappy-bird) - The Flappy Bird game implemented using GML Code
 - [Dinos](https://github.com/ItsAleph/Dinos) - 2D multi-/single-player platformer-shooter game
 
 Also, I'm currently working on several projects that are currently private (i'll open them when they enter their first stable release):
 
-- `discord-api-server` - Open-Source implementation of Discord's API
-- `Rimma` - Yet another Discord API wrapper & bot framework
-- `rubraries` - Rust client for libraries.io API
-- `lybraries` - Python client for [libraries.io API](https//libraries.io/api)
-
-Yeah, that's a very huge amount of work, but i'm in no hurry. **I ❤️ to 🛠️!**
-
-I'm maintaner of ClansBot, too. Support server -> [link](https://discord.gg/Fhn7rCVmCp)
+- GodotXML - Advanced support for XML data manipulation for Godot 4.
+- gdtk - Various tools that aid in developing Godot 4 games.
 
 ### Tools
 
@@ -41,10 +33,8 @@ Here is my GitHub statistics:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ItsAleph&color=fb9bff&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats-weerdy15.vercel.app/api?username=ItsAleph&show_icons=true&theme=vue&count_private=true)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
-![Top Languages](https://github-readme-stats-weerdy15.vercel.app/api/top-langs/?username=ItsAleph&layout=compact&theme=vue)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItsAleph&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-> Provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats)
+> Provided by [metrics](https://github.com/lowlighter/metrics)
