@@ -4,12 +4,12 @@ Kinda like a programmer, *gemdev* and OSS enthusiast.
 
 ### Projects
 
-- [node-require](https://github.com/ItsAleph/node-require) - Implementation of NodeJS's `require()`, but with more functionality. Really nice thing
-- [Dinos](https://github.com/ItsAleph/Dinos) - 2D multi-/single-player platformer-shooter game
+- [node-require](https://github.com/ItsAleph/node-require) - Implementation of NodeJS's `require()`, but with more functionality.
+- [Dinos](https://github.com/ItsAleph/Dinos) - 2D multi-/single-player platformer-shooter game.
+- [GodotXML](https://github.com/ItsAleph/GodotXML) - Advanced support for XML data manipulation for Godot 4.
 
 Also, I'm currently working on several projects that are currently private (i'll open them when they enter their first stable release):
 
-- GodotXML - Advanced support for XML data manipulation for Godot 4.
 - gdtk - Various tools that aid in developing Godot 4 games.
 
 ### Tools
