@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: ItsAleph
+          user: elenakrittik
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Minsk
@@ -37,7 +37,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: yacc, procfile
+          plugin_languages_ignored: yacc, procfile, cmake
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
