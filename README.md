@@ -1,6 +1,6 @@
 # About me
 
-Mostly backend developer with intrest in frontend and game development. Passionate about Open Source.
+Mostly backend developer with interest in frontend and game development. Passionate about Open Source.
 
 ### Projects
 
